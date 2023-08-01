@@ -1,7 +1,7 @@
 {
   "name": "resturant_website_temp",
   "version": "0.1.0",
-  "homepage": "https://maazansari99.github.io/food-website",
+  "homepage": "https://maazansari99.github.io/food-website/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
